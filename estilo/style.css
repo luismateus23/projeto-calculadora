@@ -52,4 +52,5 @@ footer{
 }
 h3{
     font-family:'PT Mono', monospace ;
+    max-width: 500px;
 }
